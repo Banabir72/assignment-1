@@ -47,7 +47,7 @@
 }
 .banner-description{
     font-size: 16px;
-    font-weight: 200;
+    font-weight: 300;
     color: #0D1321;
     width: 852px;
     margin: 0 auto;
@@ -66,4 +66,61 @@
     margin-top: 32px;
     margin-bottom: 40px;
     /* padding: 21px 24px 21px 24px; */
+}
+/* Why web development styles */
+.development{
+    margin: 74px 148px 90px 152px;
+    padding: 80px 97px;
+}
+.why-development{
+    text-align: center;
+}
+.why{
+    font-size: 32px;
+    font-weight: 800;
+    color: #0D1321;
+    width: 852px;
+    margin: 0 auto;
+    margin-bottom: 24px;
+}
+.why-ans{
+    font-size: 16px;
+    font-weight: 200;
+    color: #0D1321;
+    width: 852px;
+    margin: 0 auto;
+    margin-bottom: 48px;
+}
+.development-items{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 97px 0px 97px;
+    margin-bottom: 30px;
+}
+.development-items-l{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 97px 0px 97px;
+    margin-bottom: 30px ;
+}
+.items-head{
+    font-size: 24px;
+    font-weight: bold;
+    color: #0d1321a1;
+    width: 390px;
+}
+.items-description{
+    font-size: 16px;
+    font-weight: 200;
+    color: #0d1321a1;
+    width: 468px;
+}
+.learn-more{
+    width: 244px;
+    height: 40px;
+    border: 1px solid gray;
+    background-color: white;
+    font-size: 20px;
+    font-weight: 600;
+    color: #0d13219c;
 }

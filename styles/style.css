@@ -71,6 +71,7 @@
 .development{
     margin: 74px 148px 90px 152px;
     padding: 80px 97px;
+    background-color: rgba(183, 188, 255, 0.068)
 }
 .why-development{
     text-align: center;
@@ -96,12 +97,14 @@
     justify-content: space-around;
     padding: 0px 97px 0px 97px;
     margin-bottom: 30px;
+    background-color: white;
 }
 .development-items-l{
     display: flex;
     justify-content: space-around;
     padding: 0px 97px 0px 97px;
     margin-bottom: 30px ;
+    background-color: white;
 }
 .items-head{
     font-size: 24px;
@@ -123,4 +126,34 @@
     font-size: 20px;
     font-weight: 600;
     color: #0d13219c;
+}
+/* inspiration styles */
+.inspiration-head{
+    text-align: center;
+}
+.inspiration-title{
+    font-size: 32px;
+    font-weight: 800;
+    color: #0D1321;
+    width: 852px;
+    margin: 0 auto;
+    margin-bottom: 24px;
+}
+.inspiration-description{
+    font-size: 16px;
+    font-weight: 300;
+    color: #0d1321c9;
+    width: 852px;
+    margin: 0 auto;
+    margin-bottom: 48px;
+}
+.link{
+    padding: 25px;
+    width: 1140px;
+    height: 614px;
+    text-align: center;
+    margin: 0 auto;
+    border: 2px solid gray;
+    border-radius: 16px;
+    margin-bottom: 71px;
 }

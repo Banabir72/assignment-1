@@ -149,8 +149,8 @@
 }
 .link{
     padding: 25px;
-    width: 1140px;
-    height: 614px;
+    width: 1500px;
+    height: 714px;
     text-align: center;
     margin: 0 auto;
     border: 2px solid gray;
@@ -180,7 +180,7 @@
 .target-container{
     display: flex;
     gap: 24px;
-    padding: 0 148px 0 152px;
+    padding: 0 170px;
 }
 .container-value{
     padding: 30px;
@@ -214,7 +214,7 @@
 /* support styles */
 .support{
     text-align: center;
-    width: 1140px;
+    width: 1545px;
     height: 313px;
     background-color: rgba(0, 0, 0, 0.384);
     background-image: url(../assets/handshake.jpg);
@@ -261,13 +261,13 @@
     border-radius: 8px;
     font-size: 20px;
     font-weight: 600;
-    color: #0d1321a3;
+    color: #0d13219c;
 }
 /* footer part style */
 .foot-container{
     display: flex;
     justify-content: space-between;
-    padding: 32px 375px;
+    padding: 32px 180px;
 }
 .icons{
     display: flex;

@@ -210,3 +210,69 @@
 .current-target{
     margin-bottom: 129px;
 }
+/* support styles */
+.support{
+    text-align: center;
+    width: 1140px;
+    height: 313px;
+    background-color: rgba(0, 0, 0, 0.384);
+    background-image: url(../assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: overlay;
+    border-radius: 16px;
+    margin: 0 auto;
+    padding-top: 120px;
+    margin-bottom: 80px;
+}
+.need-support{
+    font-size: 32px;
+    font-weight: bold;
+    color: #FFFFFF;
+    width: 292px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+}
+.support-description{
+    font-size: 16px;
+    font-weight: 200;
+    color: #FFFFFF;
+    width: 606px;
+    margin: 0 auto;
+    margin-bottom: 24px;
+}
+.input-b{
+    width: 548px;
+    height: 57px;
+    border: 1px solid gray;
+    background-color: white;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #0d13219c;
+}
+.submit-b{
+    width: 244px;
+    height: 57px;
+    border: 1px solid gray;
+    background-color: white;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #0d13219c;
+}
+/* footer part style */
+.foot-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 450px;
+}
+.icons{
+    display: flex;
+    gap: 20px;
+}
+.foot-heading{
+    font-size: 20px;
+    font-weight: 600;
+}
